@@ -1,0 +1,67 @@
+
+/*header section start*/
+header {
+	border-bottom: 6px solid #C8D2E1;
+}
+
+/*header section end*/
+
+
+/*contact us section start*/
+
+.contactus {
+	background-color: #EE4A3F;
+	color: #fff;
+
+
+}
+.contactus h1{
+	
+	padding-top: 30px;
+
+}
+
+.contactus p{
+	padding-top: 30px;
+
+	
+	
+}
+
+.img1 {
+	padding-top: 30px;
+}
+.img2 {
+	    width: 250px;
+	    margin-left: 75px;
+
+}
+/*contact us section end*/
+
+
+/*form section start*/
+
+.formsection {
+	background-color: #EE4A3F;
+	color: #fff;
+	padding: 35px 0px;
+}
+
+
+.formsection input {
+	background-color: #FF6258;
+	border-style: none;
+	width: 80%;
+	padding: 10px 0px;
+}
+
+.myinput{
+	color: #fff;
+	background-color: #EE4A3F;
+	border-style: none;
+	margin-top: 75px;
+
+}
+
+
+/*form section end*/
